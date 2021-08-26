@@ -1,5 +1,4 @@
-#https://medium.com/@max_garber/simple-keras-transformer-model-74724a83bb83
-#https://colab.research.google.com/drive/1CBe2VlogbyXzmIyRQGH5xzuvLwGrvjcf?usp=sharing#scrollTo=VHU3F9_VE5rp
+
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras.layers import  BatchNormalization, Flatten, Activation, dot, Multiply, LeakyReLU, concatenate, Lambda, Layer, Input, Dense, LSTM, TimeDistributed, Concatenate, RepeatVector, Bidirectional, Masking, Conv1D, Dropout, Add, MaxPool1D, MaxPooling1D,  GlobalMaxPool1D, add
