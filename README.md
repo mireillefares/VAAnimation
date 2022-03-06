@@ -5,7 +5,7 @@
 
 The following videos show our model's predictions simulated on the Virtual Agent GRETA:
 
-**Speaker Dependent**
+**Speaker Dependent**:
 
 https://www.youtube.com/watch?v=xL7s1hh7w38
 
@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=914gzWBpEvs
 
 
 **Speaker Independent**:
+
 https://www.youtube.com/watch?v=WBerVkCBbZQ
 
 https://www.youtube.com/watch?v=f6kxzQIOmIc
